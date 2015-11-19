@@ -1,0 +1,9 @@
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\bin\Debug\Addition.exe.config
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\bin\Debug\Addition.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\bin\Debug\Addition.pdb
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\obj\Debug\Addition.Form1.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\obj\Debug\Addition.Properties.Resources.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\obj\Debug\Addition.csproj.GenerateResource.Cache
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\obj\Debug\Addition.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\obj\Debug\Addition.pdb
+C:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache

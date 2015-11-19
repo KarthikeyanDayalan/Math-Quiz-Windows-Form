@@ -1,0 +1,9 @@
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\obj\Debug\Division.Properties.Resources.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\obj\Debug\Division.csproj.GenerateResource.Cache
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\bin\Debug\Division.exe.config
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\bin\Debug\Division.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\bin\Debug\Division.pdb
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\obj\Debug\Division.Form1.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\obj\Debug\Division.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\obj\Debug\Division.pdb
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Division\obj\Debug\Division.csprojResolveAssemblyReference.cache

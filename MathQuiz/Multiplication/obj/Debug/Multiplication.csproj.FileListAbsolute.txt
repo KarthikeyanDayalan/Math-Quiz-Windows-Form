@@ -1,0 +1,9 @@
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\obj\Debug\Multiplication.Form1.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\obj\Debug\Multiplication.Properties.Resources.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\obj\Debug\Multiplication.csproj.GenerateResource.Cache
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\bin\Debug\Multiplication.exe.config
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\bin\Debug\Multiplication.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\bin\Debug\Multiplication.pdb
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\obj\Debug\Multiplication.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\obj\Debug\Multiplication.pdb
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Multiplication\obj\Debug\Multiplication.csprojResolveAssemblyReference.cache

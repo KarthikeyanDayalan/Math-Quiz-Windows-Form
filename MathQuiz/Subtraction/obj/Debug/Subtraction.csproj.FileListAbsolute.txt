@@ -1,0 +1,9 @@
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\bin\Debug\Subtraction.exe.config
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\bin\Debug\Subtraction.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\bin\Debug\Subtraction.pdb
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\obj\Debug\Subtraction.Form1.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\obj\Debug\Subtraction.Properties.Resources.resources
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\obj\Debug\Subtraction.csproj.GenerateResource.Cache
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\obj\Debug\Subtraction.exe
+c:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\obj\Debug\Subtraction.pdb
+C:\Users\karthikeyan\documents\visual studio 2015\Projects\MathQuiz\Subtraction\obj\Debug\Subtraction.csprojResolveAssemblyReference.cache
